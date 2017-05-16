@@ -1,0 +1,143 @@
+             Draft Standard for Biobrick Biological Parts
+
+                              Tom Knight
+                              3 May 2007
+
+This standard defines the required sequence properties for a
+Biobrick(tm) standard biological part.  It does not define any
+functional characteristics of the parts, nor does it motivate any
+aspect of these standards.  All sequences defined herein are specified
+in the 5' to 3' direction.
+
+0. A Biobrick compatible standard biological part consists of a DNA
+   fragment potentially conveying informational or functional
+   properties to a composite structure assembled from multiple parts.
+   The current assembly process requires certain sequence properties
+   for the part and the surrounding DNA.
+
+
+1. Allowed sequences within Biobrick parts include any DNA sequence
+   which does not contain the following subsequences:
+
+   EcoRI site:   GAATTC
+   XbaI site:    TCTAGA
+   SpeI site:    ACTAGT
+   PstI site:    CTGCAG
+   NotI site:    GCGGCCGC
+
+   Additionally, there are a set of sites which, if convenient, should
+   also be eliminated.  Parts containing these sites qualify as fully
+   Biobrick standard compliant, but future assumbly and advanced uses
+   of the parts may be compromised.  These include:
+
+   PvuII site:   CAGCTG
+   XhoI site;    CTCGAG
+   AvrII site:   CCTAGG
+   NheI site:    GCTAGC
+   SapI site:    GCTCTTC and GAAGAGC
+
+
+2. Biobrick Suffix
+
+   Each Biobrick part must contain precisely this sequence immediately
+   following the 3' end of the part:
+
+   T ACTAGT A GCGGCCG CTGCAG
+   (note: if constructing a primer, this sequence must be reverse
+   complemented.)
+
+
+3. Biobrick Prefix:
+
+   To allow the construction of ribosomal binding sequences 5' of
+   coding regions, the prefix used for coding regions is distinguished
+   from the sequence for non-coding Biobrick parts.
+
+   a. For non-coding Biobrick parts (the default) the Biobrick part
+      must contain precisely the following sequence immediately 5' of
+      the part:
+
+      GAATTC GCGGCCGC T TCTAGA G
+
+
+   b. For Biobrick parts coding for proteins, the Biobrick part must
+      contain precisely the following sequence immediately 5' of the
+      ATG start of the coding region:
+
+      GAATTC GCGGCCGC T TCTAG
+
+      Parts containing start codons other than ATG must be modified to
+      use ATG as the start codon.  We highly recommend, but do not
+      require, that all coding regions terminate with in-frame TAATAA
+      stop codons, replacing other stop codons (TGA, TAG).
+
+
+4. Plasmid context
+
+   Biobrick parts must be supplied in plasmids compatible with
+   registry and assembly procedures.  The pSBxxxx series of plasmids
+   comply with these requirements.  Other plasmids may be compliant
+   with the following constraints:
+
+   a. Antibiotic resistance:
+
+      All plasmids must carry at least one of the following antibiotic
+      resistance markers:
+
+      Ampicillin
+      Chloramphenicol
+      Kanamycin
+      Tetracycline
+
+      It is acceptable for a plasmid to convey both ampicillin
+      resistance and no more than one additional antibiotic resistance
+      markers.
+
+      Note that certain strains convey resistance as well.  Parts
+      delivered to the registry must be in strains which do not convey
+      resistance to these markers.
+
+
+   b. Sequencing primers
+
+      The registry uses the following primers in sequencing all parts.
+      Plasmids which omit or misplace these primers cannot be
+      sequenced:
+
+      VF2:  TGCCACCTGACGTCTAAGAA
+      VR:   ATTACCGCCTTTGAGTGAGC
+
+
+
+5. Strains
+
+   The registry maintains parts libraries in frozen bacterial
+   cultures, and encourages submissions in this form.  The bacterial
+   strain must be a K-12 cloning strain (endA-).  Under no
+   circumstances will the registry accept submissions in any strain
+   which is not BSL-1.  We recommend strains such as Top10, DH10B, and
+   DH5a.  We do not recommend submissions in MC4100, BL21 and similar
+   strains.
+
+
+6. PCR contruction of Biobrick parts
+
+   Biobrick parts can be constructed by PCR from naturally occurring
+   coding regions or other long DNA sequences.  The recommended primer
+   sequences for PCR of these fragments are:
+
+   Biobrick prefix:
+   GTTTCTTC GAATTC GCGGCCGC T TCTAGA G <18-24 bp of matching primer>
+
+   Coding region biobrick prefix:
+   GTTTCTTC GAATTC GCGGCCGC T TCTAG <18-24 bp of matching primer, beginning with ATG>
+
+   Biobrick suffix:
+   GTTTCTTC CTGCAG CGGCCGC T ACTAGT A <18-24 bp of matching primer (reverse complement)>
+
+   The reverse complement of this suffix sequence is:
+   3' T ACTAGT A GCGGCCG CTGCAG GAAGAAAC 5'
+
+
+------------
+Biobrick(tm) is a registered trademark of the Biobrick Foundation, Inc.
