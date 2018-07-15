@@ -25,7 +25,7 @@ Our capacity to design biology requires working knowledge of:
 - Manufacturing and Process Engineering
 - Data Science and Machine Learning
 
-As so, here you'll find review papers (and some books) in these disciplines as they relate to Synthetic Biology. You can find select seminal papers (referenced in reviews below) [here](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/seminal-papers.md). I've also listed out the list of resources that go into my RSS feed [here](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/resources.md).
+As so, here you'll find review papers (and some books) in these disciplines as they relate to Synthetic Biology. You can find select seminal papers (referenced in reviews below) [here](https://github.com/francisglee/synthetic-biology-primers/blob/master/seminal-papers.md). I've also listed out the list of resources that go into my RSS feed [here](https://github.com/francisglee/synthetic-biology-primers/blob/master/resources.md).
 
 This list is curated by Francis Lee. Please contact me at francis dot g dot lee at gmail dot com for comments and updates!
 
