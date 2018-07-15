@@ -71,11 +71,11 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[1.3]** Knight, T. "**Draft Standard for Biobrick Biological Parts**" OpenWetWare RSS. BioBrick Foundation, 3 May 2007. Web. 03 Mar. 2017. [[txt]](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/papers/draft-standard-for-biobrick-biological-parts-2007.txt) :star::star::star::star::star:
 
-**[]** morowitz
-**[]** feynman
-**[]** lac operon
-**[]** restriction enzymes
-**[]** Discovery of DNA
+**[]** morowitz  
+**[]** feynman  
+**[]** lac operon  
+**[]** restriction enzymes  
+**[]** Discovery of DNA  
 
 ---
 
