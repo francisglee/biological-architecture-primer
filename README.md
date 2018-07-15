@@ -262,6 +262,8 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[23.3]** Bergin J. "**Synthetic Biology: Global Markets**” BBC Research. 2017. Web. 3 Mar. 2014. [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/synthetic-biology-global-markets-2017.pdf) :star::star::star:
 
+---
+
 ## 24 Art, Design, and Fashion
 
 **[24.1]** Agapakis, Christina M. "**Designing synthetic biology.**" ACS synthetic biology 3.3 (2013): 121-128. [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/designing-synthetic-biology-2013.pdf) :star::star:
@@ -273,6 +275,8 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 **[24.4]** Descience [[link]](http://www.fashiondescience.com/)
 
 **[24.5]** BioFabricate [[link]](http://www.biofabricate.co/)
+
+---
 
 ## 25 Ethics and Biosafety
 
