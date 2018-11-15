@@ -366,6 +366,8 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[28.5]** BioFabricate [[link]](http://www.biofabricate.co/)
 
+**[28.6]** Ripley, Renee L., and Bharat Bhushan. "**Bioarchitecture: bioinspired art and architecture—a perspective.**" Phil. Trans. R. Soc. A 374.2073 (2016): 20160192. [[pdf]](./papers/bioarchitecture-2016.pdf)
+
 ### 29. Ethics and Biosafety
 
 **[29.1]** Barras, Vincent, and Gilbert Greub. "**History of biological warfare and bioterrorism.**" Clinical Microbiology and Infection 20.6 (2014): 497-502. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/history-of-biological-warfare-and-bioterrorism-2014.pdf) :star::star::star:
