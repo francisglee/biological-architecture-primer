@@ -31,7 +31,6 @@ Our capacity to design biology requires working knowledge of:
 - Manufacturing and Process Engineering
 - Data Science and Machine Learning
 
-<<<<<<< HEAD
 As so, here you'll find review papers (and some books) in these disciplines as they relate to Synthetic Biology. This roadmap is divided into four categories:
 
 1. Applications of Synthetic Biology
@@ -41,9 +40,6 @@ As so, here you'll find review papers (and some books) in these disciplines as t
 5. Cultural impact of Synthetic Biology
 
 You can find select seminal papers (referenced in reviews below) [here](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/seminal-papers.md). I've also listed out the list of resources that go into my RSS feed [here](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/resources.md).
-=======
-As so, here you'll find review papers (and some books) in these disciplines as they relate to Synthetic Biology. You can find select seminal papers (referenced in reviews below) [here](https://github.com/francisglee/synthetic-biology-primers/blob/master/seminal-papers.md). I've also listed out the list of resources that go into my RSS feed [here](https://github.com/francisglee/synthetic-biology-primers/blob/master/resources.md).
->>>>>>> 0608048a01bf1465ccf6306f7f79eb3ca5ce7fc5
 
 This list is curated by Francis Lee. Please contact me at francis dot g dot lee at gmail dot com for comments and updates!
 
@@ -96,15 +92,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[1.3]** Knight, T. "**Draft Standard for Biobrick Biological Parts**" OpenWetWare RSS. BioBrick Foundation, 3 May 2007. Web. 03 Mar. 2017. [[txt]](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/papers/draft-standard-for-biobrick-biological-parts-2007.txt) :star::star::star::star::star:
 
-<<<<<<< HEAD
 **[1.4]** Smith, Eric, and Harold J. Morowitz. "**Universality in intermediary metabolism.**" Proceedings of the National Academy of Sciences 101.36 (2004): 13168-13173. [[link]](./papers/universality-in-intermediate-metabolism-2004.pdf) :star::star::star::star::star:
-=======
-**[]** morowitz  
-**[]** feynman  
-**[]** lac operon  
-**[]** restriction enzymes  
-**[]** Discovery of DNA  
->>>>>>> 0608048a01bf1465ccf6306f7f79eb3ca5ce7fc5
 
 **[1.5]** Feynman, Richard P., Robert B. Leighton, and Matthew Sands. **The Feynman lectures on physics, Vol. I: The new millennium edition: mainly mechanics, radiation, and heat.** Vol. 1. Basic books, 2011. [[link]](http://www.engineersbench.com/phil/docs/books/The%20Feynman%20Lectures%20on%20Physics%20-%20Book%201.pdf) :star::star::star::star::star:
 
@@ -354,13 +342,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[26.2]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf) :star::star::star::star:
 
-<<<<<<< HEAD
 ### 27. Synthetic Biology in Industry and the Bioeconomy
-=======
----
-
-## 24 Art, Design, and Fashion
->>>>>>> 0608048a01bf1465ccf6306f7f79eb3ca5ce7fc5
 
 **[27.1]** SynBioBeta [[link]](http://synbiobeta.com/)
 
@@ -372,13 +354,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[27.5]** Zilberman, David, et al. "**Economics of Sustainable Development and the Bioeconomy.**" Applied Economic Perspectives and Policy 40.1 (2018): 22-37. [[pdf]](./papers/economics-of-sustainable-development-and-the-bioeconomy-2018.pdf)
 
-<<<<<<< HEAD
 ### 28. Art, Design, and Fashion
-=======
----
-
-## 25 Ethics and Biosafety
->>>>>>> 0608048a01bf1465ccf6306f7f79eb3ca5ce7fc5
 
 **[28.1]** Agapakis, Christina M. "**Designing synthetic biology.**" ACS synthetic biology 3.3 (2013): 121-128. [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/designing-synthetic-biology-2013.pdf) :star::star:
 
