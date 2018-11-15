@@ -2,7 +2,7 @@
 
 > _I started this reading roadmap focusing on Synthetic Biology, but as I've traveled down the rabbit hole of biological complexity, I realized I was out of my depth. I found myself lost in concepts seemingly unrelated to biology: indexing variation graph, control theory of pattern formation, philosophy of statistics, and hyperparameter tuning for deep neural nets._
 >
-> _The aim of this document is still the same: documenting papers that are fundamental in designing biological systems. For me, this is a life-long pursuit, as this effort is post-university; there is much to learn, so much to discover. I decided to rename this repository from `synthetic-biology-primers` to `biological-architecture-primer` because a number of these papers do not have `synthetic biology` as a keyword. But they are just as important._
+> _The aim of this document is still the same: documenting papers that are fundamental in designing biological systems. I decided to rename this repository from `synthetic-biology-primers` to `biological-architecture-primer` because a number of these papers do not have `synthetic biology` as a keyword. But they are just as important._
 
 ---
 
