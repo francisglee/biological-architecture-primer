@@ -234,6 +234,12 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 ### 16. OMICs Era of Biology
 
+Zampieri, Mattia, et al. "**Frontiers of high-throughput metabolomics.**" Current opinion in chemical biology 36 (2017): 15-23. [[pdf]](./papers/frontiers-of-high-throughput-metabolomics-2017.pdf)
+
+Haas, Robert, et al. "**Designing and interpreting ‘multi-omic’experiments that may change our understanding of biology.**" Current Opinion in Systems Biology 6 (2017): 37-45. [[pdf]](./papers/designing-and-interpreting-multi-omic-experiments-that-may-change-our-understanding-of-biology-2017.pdf)
+
+Kim, Minseung, and Ilias Tagkopoulos. "**Data integration and predictive modeling methods for multi-omics datasets.**" Molecular omics 14.1 (2018): 8-25. [[pdf]](./papers/data-integration-and-predictive-modeling-methods-for-multi-omics-datasets-2018.pdf)
+
 ### 17. Systems Biology
 
 **[17.1]** Nielsen, Jens. "**Systems biology of metabolism.**" Annual review of biochemistry 86 (2017): 245-275. [[pdf]](./papers/systems-biology-of-metabolism-2017.pdf)
@@ -250,7 +256,29 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[18.1]** Macklin, Derek N., Nicholas A. Ruggero, and Markus W. Covert. "**The future of whole-cell modeling.**" Current opinion in biotechnology 28 (2014): 111-115. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-future-of-whole-cell-modeling-2014.pdf) :star::star::star:
 
+**[18.2]** Øyås, Ove, and Jörg Stelling. "**Genome-scale metabolic networks in time and space.**" Current Opinion in Systems Biology (2017). [[pdf]](./papers/genome-scale-metabolic-models-in-time-and-space-2017.pdf)
+
+**[18.3]** Ramon, Charlotte, Mattia G. Gollub, and Jörg Stelling. "**Integrating–omics data into genome-scale metabolic network models: principles and challenges.**" Essays in biochemistry 62.4 (2018): 563-574. [[pdf]](./papers/integrating-omics-data-into-genome-scale-metabolic-models-2018.pdf)
+
+**[18.4]** Fröhlich, Fabian, et al. "**Scalable parameter estimation for genome-scale biochemical reaction networks.**" PLoS computational biology 13.1 (2017): e1005331. [[pdf]](./papers/scalable-parameter-estimation-for-genome-scale-biochemical-reaction-networks-2017.pdf)
+
+**[18.5]** Babtie, Ann C., and Michael PH Stumpf. "**How to deal with parameters for whole-cell modelling.**" Journal of The Royal Society Interface 14.133 (2017): 20170237. [[pdf]](./papers/how-to-deal-with-parameters-for-whole-cell-modeling-2017.pdf)
+
+**[18.6]** Tsigkinopoulou, Areti, Syed Murtuza Baker, and Rainer Breitling. "**Respectful modeling: addressing uncertainty in dynamic system models for molecular biology.**" Trends in biotechnology 35.6 (2017): 518-529. [[pdf]](./papers/respectful-modeling-2017.pdf)
+
+**[18.7]** Babtie, Ann C., Paul Kirk, and Michael PH Stumpf. "**Topological sensitivity analysis for systems biology.**" Proceedings of the National Academy of Sciences 111.52 (2014): 18507-18512. [[pdf]](./papers/topological-sensitivity-analysis-for-systems-biology-2014.pdf)
+
 ### 19. Biological Inference and Reverse Engineering of Biology
+
+**[19.1]** Le Novere, Nicolas. "**Quantitative and logic modelling of molecular and gene networks.**" Nature Reviews Genetics 16.3 (2015): 146. [[pdf]](./papers/quantitative-and-logic-modelling-of-gene-and-molecular-networks-2015.pdf)
+
+**[19.2]** Aderhold, Andrej, V. Anne Smith, and Dirk Husmeier. "**Biological Network Inference at Multiple Scales: From Gene Regulation to Species Interactions.**" Pattern Recognition in Computational Molecular Biology: Techniques and Approaches (2015): 525-554. [[pdf]](./papers/biological-inference-at-multiple-scales-2015.pdf)
+
+**[19.3]** Villaverde, Alejandro F., and Julio R. Banga. "**Reverse engineering and identification in systems biology: strategies, perspectives and challenges.**" Journal of the Royal Society Interface 11.91 (2014): 20130505. [[pdf]](./papers/reverse-engineering-and-identification-in-systems-biology-2014.pdf)
+
+**[19.4]** Abou-Jaoudé, Wassim, et al. "**Logical modeling and dynamical analysis of cellular networks.**" Frontiers in genetics 7 (2016): 94. [[pdf]](./papers/logical-modeling-and-dynamical-analysis-of-cellular-networks-2016.pdf)
+
+**[19.5]** Zeng, Irene Sui Lan, and Thomas Lumley. "**Review of statistical learning methods in integrated omics studies (an integrated information science).**" Bioinformatics and Biology Insights 12 (2018): 1177932218759292. [[pdf]](./papers/review-of-statistical-learning-methods-in-integrated-omics-studies-2018.pdf)
 
 ### 20. Evolution and the Origin of Life
 
@@ -268,25 +296,27 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[21.1]** Mardis, Elaine R. "**DNA sequencing technologies: 2006-2016.**" Nature Protocols 12.2 (2017): 213-218. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/dna-sequencing-technologies-2006-2016-2017.pdf) :star::star::star:
 
+**[21.2]** Heather, James M., and Benjamin Chain. "**The sequence of sequencers: the history of sequencing DNA.**" Genomics 107.1 (2016): 1-8. [[pdf]](./papers/the-sequence-of-sequencers-the-history-of-sequencing-dna-2016.pdf)
+
 #### DNA Synthesis and Assembly
 
-**[21.2]** Kosuri, Sriram, and George M. Church. "**Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf) :star::star::star::star:
+**[21.3]** Kosuri, Sriram, and George M. Church. "**Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf) :star::star::star::star:
 
-**[21.3]** Chao, Ran, Yongbo Yuan, and Huimin Zhao. "**Recent advances in DNA assembly technologies.**" FEMS yeast research 15.1 (2015): 1-9. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/recent-advances-in-dna-assembly-technologies-2015.pdf) :star::star::star:
+**[21.4]** Chao, Ran, Yongbo Yuan, and Huimin Zhao. "**Recent advances in DNA assembly technologies.**" FEMS yeast research 15.1 (2015): 1-9. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/recent-advances-in-dna-assembly-technologies-2015.pdf) :star::star::star:
 
-**[21.4]** Casini, Arturo, et al. "**Bricks and blueprints: methods and standards for DNA assembly.**" Nature Reviews Molecular Cell Biology 16.9 (2015): 568. [[pdf]](./papers/bricks-and-blueprints-2015.pdf)
+**[21.5]** Casini, Arturo, et al. "**Bricks and blueprints: methods and standards for DNA assembly.**" Nature Reviews Molecular Cell Biology 16.9 (2015): 568. [[pdf]](./papers/bricks-and-blueprints-2015.pdf)
 
 #### Nucleotide Editing
 
-**[21.5]** Knott, Gavin J., and Jennifer A. Doudna. "**CRISPR-Cas guides the future of genetic engineering.**" Science 361.6405 (2018): 866-869. [[pdf]](./papers/crispr-cas-guides-the-future-of-genetic-engineering)
+**[21.6]** Knott, Gavin J., and Jennifer A. Doudna. "**CRISPR-Cas guides the future of genetic engineering.**" Science 361.6405 (2018): 866-869. [[pdf]](./papers/crispr-cas-guides-the-future-of-genetic-engineering)
 
-**[21.6]** Hess, Gaelen T., et al. "**Methods and applications of CRISPR-mediated base editing in eukaryotic genomes.**" Molecular cell 68.1 (2017): 26-43. [[pdf]](methods-and-applications-of-crispr-mediated-base-editing-in-eukaryotic-genomes-2017.pdf)
+**[21.7]** Hess, Gaelen T., et al. "**Methods and applications of CRISPR-mediated base editing in eukaryotic genomes.**" Molecular cell 68.1 (2017): 26-43. [[pdf]](methods-and-applications-of-crispr-mediated-base-editing-in-eukaryotic-genomes-2017.pdf)
 
 #### Delivery Technologies
 
-**[21.7]** Jahangirian, Hossein, et al. "**A review of drug delivery systems based on nanotechnology and green chemistry: green nanomedicine.**" International journal of nanomedicine 12 (2017): 2957. [[pdf]](./papers/a-review-of-drug-delivery-systems-based-on-nanotechnology-and-green-chemistry-2017.pdf)
+**[21.8]** Jahangirian, Hossein, et al. "**A review of drug delivery systems based on nanotechnology and green chemistry: green nanomedicine.**" International journal of nanomedicine 12 (2017): 2957. [[pdf]](./papers/a-review-of-drug-delivery-systems-based-on-nanotechnology-and-green-chemistry-2017.pdf)
 
-**[21.8]** Yin, Hao, Kevin J. Kauffman, and Daniel G. Anderson. "**Delivery technologies for genome editing.**" Nature reviews Drug discovery 16.6 (2017): 387. [[pdf]](./papers/delivery-technologies-for-genome-editing-2017.pdf)
+**[21.9]** Yin, Hao, Kevin J. Kauffman, and Daniel G. Anderson. "**Delivery technologies for genome editing.**" Nature reviews Drug discovery 16.6 (2017): 387. [[pdf]](./papers/delivery-technologies-for-genome-editing-2017.pdf)
 
 ### 22. Automation and BioProcess Foundries
 
@@ -322,9 +352,17 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 #### Stastistical
 
+**[]** Heinze-Deml, Christina, Marloes H. Maathuis, and Nicolai Meinshausen. "**Causal structure learning.**" Annual Review of Statistics and Its Application 5 (2018): 371-391. [[pdf]](./papers/casual-structure-learning-2018.pdf)
+
+**[]** Drton, Mathias, and Marloes H. Maathuis. "**Structure learning in graphical modeling.**" Annual Review of Statistics and Its Application 4 (2017): 365-393. [[pdf]](./papers/structure-learning-in-graphical-modeling-2017.pdf)
+
+**[]** Peters, Jonas, Dominik Janzing, and Bernhard Schölkopf. **Elements of causal inference: foundations and learning algorithms**. MIT press, 2017. [[ebook]](https://mitpress.mit.edu/books/elements-causal-inference)
+
 #### Machine Learning
 
 **[]** Camacho, Diogo M., et al. "**Next-generation machine learning for biological networks.**" Cell (2018). [[pdf]](./papers/next-generation-machine-learning-for-biological-networks-2018.pdf)
+
+Cuperlovic-Culf, Miroslava. "**Machine Learning Methods for Analysis of Metabolic Data and Metabolic Pathway Modeling.**" Metabolites 8.1 (2018): 4. [[pdf]](./papers/machine-learning-methods-for-analysis-of-metabolic-data-and-metabolic-pathway-modeling-2018.pdf)
 
 #### Intuition
 
