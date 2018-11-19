@@ -68,7 +68,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 16. [OMICs Era of Biology](#16-omics-era-of-biology)
 17. [Systems Biology](#17-systems-biology)
 18. [Whole Cell Modeling](#18-whole-cell-modeling)
-19. [Biological Inference and Reverse Engineering Biology](#19-biological-inference-and-reverse-engineering-biology)
+19. [Biological Inference and Reverse Engineering of Biology](#19-biological-inference-and-reverse-engineering-of-biology)
 20. [Evolution and the Origin of Life](#20-evolution-and-the-origin-of-life)
 21. [Nucleotide Technologies](#21-nucleotide-technologies)
 22. [Automation and BioProcess Foundries](#22-automation-and-bioprocess-foundries)
