@@ -44,6 +44,7 @@ You can find select seminal papers (referenced in reviews below) [here](https://
 This list is curated by Francis Lee. Please contact me at francis dot g dot lee at gmail dot com for comments and updates!
 
 > //TODO: Explain star metrics.
+>
 > //TODO: Create `seminal papers` and `RSS feed` pages.
 
 ---
