@@ -177,6 +177,8 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[8.2]** Organick, Lee, et al. "**Random access in large-scale DNA data storage.**" Nature biotechnology 36.3 (2018): 242. [[pdf]](./papers/random-access-in-large-scale-dna-data-storage-2018.pdf)
 
+**[8.3]** Zhirnov, Victor, et al. "**Nucleic acid memory.**" Nature materials 15.4 (2016): 366. [[pdf]](./papers/nucleic-acid-memory-2018.pdf)
+
 ---
 
 ## Bottom-up Approach to Biological Design
