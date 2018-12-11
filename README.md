@@ -187,7 +187,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[]** DNA Design
 
-**[]** Kim, Cameron M., and Christina D. Smolke. "**Biomedical applications of RNA-based devices.**" Current Opinion in Biomedical Engineering (2017).  [[pdf]](./papers/biomedical-applications-of-rna-based-devices-2018.pdf) :star::star::star::star::star:
+**[]** Kim, Cameron M., and Christina D. Smolke. "**Biomedical applications of RNA-based devices.**" Current Opinion in Biomedical Engineering (2017). [[pdf]](./papers/biomedical-applications-of-rna-based-devices-2018.pdf) :star::star::star::star::star:
 
 **[]** McKeague, Maureen, Remus S. Wong, and Christina D. Smolke. "**Opportunities in the design and application of RNA for gene expression control.**" Nucleic acids research (2016): gkw151. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/opportunities-in-the-design-and-application-of-rna-for-gene-control-expression-2016.pdf) :star::star::star:
 
@@ -225,7 +225,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[13.3]** Haimovich, Adrian D., Paul Muir, and Farren J. Isaacs. "**Genomes by design.**" Nature Reviews Genetics 16.9 (2015): 501-516. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genomes-by-design-2015.pdf) :star::star::star:
 
-**[13.4]** Baby, Vincent, et al. "**Inferring the Minimal Genome of Mesoplasma florum by Comparative Genomics and Transposon Mutagenesis.**" MSystems 3.3 (2018): e00198-17. [[pdf]](./papers/inferring-the-minimal-genome-2018.pdf)
+**[13.4]** Baby, Vincent, et al. "**Inferring the Minimal Genome of Mesoplasma florum by Comparative Genomics and Transposon Mutagenesis.**" MSystems 3.3 (2018): e00198-17. [[pdf]](./papers/inferring-time-minimal-genome-2018.pdf)
 
 ### 14. Bioreactors and the Environment
 
