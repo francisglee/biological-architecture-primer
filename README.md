@@ -133,11 +133,13 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 #### Biomaterials
 
+**[3.4]** Nguyen, Peter Q., et al. "**Engineered Living Materials: Prospects and Challenges for Using Biological Systems to Direct the Assembly of Smart Materials.**" Advanced Materials 30.19 (2018): 1704847. [[pdf]](./papers/engineered-living-materials-2018.pdf)
+
 ### 4. Mammalian Synthetic Biology
 
-**[4.1]** Lienert, Florian, et al. "**Synthetic biology in mammalian cells: next generation research tools and therapeutics.**" Nature Reviews Molecular Cell Biology 15.2 (2014): 95-107. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-in-mammalian-cells-next-generation-research-tools-and-therapeutics-2014.pdf) :star::star::star::star:
+**[4.1]** Tewary, Mukul, Nika Shakiba, and Peter W. Zandstra. "**Stem cell bioengineering: building from stem cell biology.**" Nature Reviews Genetics (2018): 1. [[pdf]](./papers/stem-cell-bioengineering-2018.pdf) :star::star::star::star:
 
-**[4.2]** Ye, Haifeng, Dominique Aubel, and Martin Fussenegger. "**Synthetic mammalian gene circuits for biomedical applications.**" Current opinion in chemical biology 17.6 (2013): 910-917. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/synthetic-mammalian-gene-circuits-for-biomedical-applications-2013.pdf) :star::star::star:
+**[4.2]** Mathur, Melina, Joy S. Xiang, and Christina D. Smolke. "**Mammalian synthetic biology for studying the cell.**" J Cell Biol 216.1 (2017): 73-82. [[pdf]](./papers/mammalian-synthetic-biology-for-studying-the-cell-2017.pdf) :star::star::star:
 
 **[4.3]** Markson, Joseph S., and Michael B. Elowitz. "**Synthetic biology of multicellular systems: new platforms and applications for animal cells and organisms.**" ACS synthetic biology 3.12 (2014): 875. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-of-multicellular-systems-new-platforms-and-applications-for-animal-cells-and-organisms-2014.pdf) :star::star::star::star::
 
@@ -183,7 +185,7 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[]** DNA Design
 
-**[]** Isaacs, Farren J., Daniel J. Dwyer, and James J. Collins. "**RNA synthetic biology.**" Nature biotechnology 24.5 (2006): 545-554. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/rna-synthetic-biology-2006.pdf) :star::star::star::star::star:
+**[]** Kim, Cameron M., and Christina D. Smolke. "**Biomedical applications of RNA-based devices.**" Current Opinion in Biomedical Engineering (2017).  [[pdf]](./papers/biomedical-applications-of-rna-based-devices-2018.pdf) :star::star::star::star::star:
 
 **[]** McKeague, Maureen, Remus S. Wong, and Christina D. Smolke. "**Opportunities in the design and application of RNA for gene expression control.**" Nucleic acids research (2016): gkw151. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/opportunities-in-the-design-and-application-of-rna-for-gene-control-expression-2016.pdf) :star::star::star:
 
@@ -220,6 +222,8 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 > This is not a review.
 
 **[13.3]** Haimovich, Adrian D., Paul Muir, and Farren J. Isaacs. "**Genomes by design.**" Nature Reviews Genetics 16.9 (2015): 501-516. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genomes-by-design-2015.pdf) :star::star::star:
+
+**[13.4]** Baby, Vincent, et al. "**Inferring the Minimal Genome of Mesoplasma florum by Comparative Genomics and Transposon Mutagenesis.**" MSystems 3.3 (2018): e00198-17. [[pdf]](./papers/inferring-the-minimal-genome-2018.pdf)
 
 ### 14. Bioreactors and the Environment
 
