@@ -51,58 +51,35 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 ## Table of Contents
 
-- [Biological Architecture Reading Roadmap](#biological-architecture-reading-roadmap)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [1. Synthetic Biology Inspirations](#1-synthetic-biology-inspirations)
-    - [2. History and Future of Synthetic Biology](#2-history-and-future-of-synthetic-biology)
-  - [Applications of Synthetic Biology](#applications-of-synthetic-biology)
-    - [3. Microbial Chemical Refineries and Bioproduction](#3-microbial-chemical-refineries-and-bioproduction)
-      - [Drugs and Therapeutics](#drugs-and-therapeutics)
-      - [Natural Products](#natural-products)
-      - [Biomaterials](#biomaterials)
-    - [4. Mammalian Synthetic Biology](#4-mammalian-synthetic-biology)
-    - [5. Agriculture and Plant Synthetic Biology](#5-agriculture-and-plant-synthetic-biology)
-    - [6. Cell-Free Systems](#6-cell-free-systems)
-    - [7. Ecosystems Engineering](#7-ecosystems-engineering)
-    - [8. Information Technology](#8-information-technology)
-  - [Bottom-up Approach to Biological Design](#bottom-up-approach-to-biological-design)
-    - [9. Parts Design](#9-parts-design)
-    - [10. Synthetic Structural Biology](#10-synthetic-structural-biology)
-    - [11. Gene Circuit Design and Control Theory in Synthetic Biology](#11-gene-circuit-design-and-control-theory-in-synthetic-biology)
-    - [12. Metabolic Engineering and Compartmentalization](#12-metabolic-engineering-and-compartmentalization)
-    - [13. Minimal Genomes and Genome Design](#13-minimal-genomes-and-genome-design)
-    - [14. Bioreactors and the Environment](#14-bioreactors-and-the-environment)
-    - [15. Protocells and Minimal Artificial Organisms](#15-protocells-and-minimal-artificial-organisms)
-  - [Top-down Approach to Biological Interrogation](#top-down-approach-to-biological-interrogation)
-    - [16. OMICs Era of Biology](#16-omics-era-of-biology)
-    - [17. Systems Biology](#17-systems-biology)
-    - [18. Whole Cell Modeling](#18-whole-cell-modeling)
-    - [19. Biological Inference and Reverse Engineering of Biology](#19-biological-inference-and-reverse-engineering-of-biology)
-    - [20. Evolution and the Origin of Life](#20-evolution-and-the-origin-of-life)
-  - [Enabling Technologiees](#enabling-technologiees)
-    - [21. Nucleotide Technologies](#21-nucleotide-technologies)
-      - [Sequencing](#sequencing)
-      - [DNA Synthesis and Assembly](#dna-synthesis-and-assembly)
-      - [Nucleotide Editing](#nucleotide-editing)
-      - [Delivery Technologies](#delivery-technologies)
-    - [22. Automation and BioProcess Foundries](#22-automation-and-bioprocess-foundries)
-    - [23. Fluidics](#23-fluidics)
-      - [Macrofluidics](#macrofluidics)
-      - [Microfluidics](#microfluidics)
-      - [uTAS](#utas)
-    - [24. Imaging and Spectral Tools](#24-imaging-and-spectral-tools)
-    - [25. Computational Methodologies](#25-computational-methodologies)
-      - [Mathematical](#mathematical)
-      - [Algorithmic](#algorithmic)
-      - [Stastistical](#stastistical)
-      - [Machine Learning](#machine-learning)
-      - [Intuition](#intuition)
-  - [Cultural Impact of Synthetic Biology](#cultural-impact-of-synthetic-biology)
-    - [26. iGEM and DIYBio](#26-igem-and-diybio)
-    - [27. Synthetic Biology in Industry and the Bioeconomy](#27-synthetic-biology-in-industry-and-the-bioeconomy)
-    - [28. Art, Design, and Fashion](#28-art-design-and-fashion)
-    - [29. Ethics and Biosafety](#29-ethics-and-biosafety)
+1.  [Synthetic Biology Inspirations](#1-synthetic-biology-inspirations)
+2.  [History and Future of Synthetic Biology](#2-history-and-future-of-synthetic-biology)
+3.  [Microbial Chemical Refineries and Bioproduction](#3-microbial-chemical-refineries-and-bioproduction)
+4.  [Mammalian Synthetic Biology](#4-mammalian-synthetic-biology)
+5.  [Agriculture and Plant Synthetic Biology](#5-agriculture-and-plant-synthetic-biology)
+6.  [Cell-Free Systems](#6-cell-free-systems)
+7.  [Ecosystems Engineering](#7-ecosystems-engineering)
+8.  [Information Technology](#8-information-technology)
+9.  [Parts Design](#9-parts-design)
+10. [Synthetic Structural Biology](#10-synthetic-structural-biology)
+11. [Gene Circuit Design and Control Theory in Synthetic Biology](#11-gene-circuit-design-and-control-theory-in-synthetic-biology)
+12. [Metabolic Engineering and Compartmentalization](#12-metabolic-engineering-and-compartmentalization)
+13. [Minimal Genomes and Genome Design](#13-minimal-genomes-and-genome-design)
+14. [Bioreactors and the Environment](#14-bioreactors-and-the-environment)
+15. [Protocells and Minimal Artificial Organisms](#15-protocells-and-minimal-artificial-organisms)
+16. [OMICs Era of Biology](#16-omics-era-of-biology)
+17. [Systems Biology](#17-systems-biology)
+18. [Whole Cell Modeling](#18-whole-cell-modeling)
+19. [Biological Inference and Reverse Engineering of Biology](#19-biological-inference-and-reverse-engineering-of-biology)
+20. [Evolution and the Origin of Life](#20-evolution-and-the-origin-of-life)
+21. [Nucleotide Technologies](#21-nucleotide-technologies)
+22. [Automation and BioProcess Foundries](#22-automation-and-bioprocess-foundries)
+23. [Fludics](#23-fluidics)
+24. [Imaging and Spectral Tools](#24-imaging-and-spectral-tools)
+25. [Computational Methodologies](#25-computational-methodologies)
+26. [iGEM and DIYBio](#26-igem-and-diybio)
+27. [Synthetic Biology in Industry and the Bioeconomy](#27-synthetic-biology-in-industry-and-the-bioeconomy)
+28. [Art, Design, and Fashion](#28-art-design-and-fashion)
+29. [Ethics and Bioethics](#29-ethics-and-bioethics)
 
 ---
 
@@ -126,8 +103,6 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[1.8]** Lane, Nick. **The Vital Question: Energy, Evolution, and the Origins of Complex Life**. New York City, W. W. Norton & Company; 1 edition, June 21, 2016. [[Amazon]](https://www.amazon.com/Vital-Question-Evolution-Origins-Complex/dp/0393352978/)
 
-**[1.9]** Morowitz, Harold J., Bettina Heinz, and David W. Deamer. "**The chemical logic of a minimum protocell.**" Origins of Life and Evolution of the Biosphere 18.3 (1988): 281-287.
-
 ### 2. History and Future of Synthetic Biology
 
 **[2.1]** Cameron, D. Ewen, Caleb J. Bashor, and James J. Collins. "**A brief history of synthetic biology.**." Nature Reviews Microbiology. (2014). [[pdf]](https://github.com/francisglee/synthetic-biology-roadmap/raw/master/papers/a-brief-history-of-synthetic-biology-2014.pdf) :star::star::star::star::star:
@@ -150,15 +125,11 @@ This list is curated by Francis Lee. Please contact me at francis dot g dot lee 
 
 **[3.1]** Paddon, Chris J., and Jay D. Keasling. "**Semi-synthetic artemisinin: a model for the use of synthetic biology in pharmaceutical development.**" Nature Reviews Microbiology 12.5 (2014): 355. [[pdf]](./papers/semi-synthetic-artemisinin-2014.pdf)
 
-
-
 #### Natural Products
 
 **[3.2]** Jullesson, David, et al. "**Impact of synthetic biology and metabolic engineering on industrial production of fine chemicals.**" Biotechnology advances 33.7 (2015): 1395-1402. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/impact-of-synthetic-biology-and-metabolic-engineering-on-industrial-production-of-fine-chemicals-2015.pdf) :star::star::star::star::star:
 
 **[3.3]** Smanski, Michael J., et al. "**Synthetic biology to access and expand nature's chemical diversity.**" Nature Reviews Microbiology 14.3 (2016): 135. [[pdf]]()
-
-Galanie, Stephanie, et al. "**Complete biosynthesis of opioids in yeast.**" Science 349.6252 (2015): 1095-1100.
 
 #### Biomaterials
 
@@ -257,8 +228,6 @@ Galanie, Stephanie, et al. "**Complete biosynthesis of opioids in yeast.**" Scie
 **[13.4]** Baby, Vincent, et al. "**Inferring the Minimal Genome of Mesoplasma florum by Comparative Genomics and Transposon Mutagenesis.**" MSystems 3.3 (2018): e00198-17. [[pdf]](./papers/inferring-time-minimal-genome-2018.pdf)
 
 ### 14. Bioreactors and the Environment
-
-Mears, Lisa, et al. "**Mechanistic fermentation models for process design, monitoring, and control.**" Trends in biotechnology 35.10 (2017): 914-924.
 
 ### 15. Protocells and Minimal Artificial Organisms
 
